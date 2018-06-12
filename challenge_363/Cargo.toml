@@ -1,0 +1,6 @@
+[package]
+name = "challenge_363"
+version = "0.1.0"
+authors = ["Sebastian Rutofski <sebastian.rutofski@gmail.com>"]
+
+[dependencies]
